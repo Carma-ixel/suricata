@@ -1,0 +1,39 @@
+*{
+  margin: 0;
+  padding: 0;
+  border:0;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+}
+
+h1{
+  font-weight: 700;
+  font-size: 2.5em;
+  color: #707070;
+  margin-top: 10%;
+  margin-bottom: 2%;
+}
+
+.logo-nav{
+  width: 35%;
+}
+
+
+#pago{
+  background-color: #1C7CD5;
+  color: white;
+}
+
+#pago i{
+  padding-right: 0.5em;
+  font-size: 70px;
+
+}
+footer, .rose{
+  background-color: #E83E8C;
+}
+
+.foot-img{
+ width: 45px;
+
+}
